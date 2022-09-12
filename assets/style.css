@@ -5,6 +5,9 @@
 h1,h2,h6{
     color: rgb(177, 99, 250);
 }
+h6{
+    font-size: 13px;
+}
 
 .header{
     text-align: center;
@@ -40,4 +43,30 @@ footer{
 .products{
     display: flex;
     flex-wrap: wrap;
+    margin-left: 13%;
+    margin-right: 13%;
+    line-height: 35px;
+}
+.card{
+    margin-left: 4%;
+    border: 2px dotted white;
+    margin-bottom: 50px;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 400px;
+}
+.card-header{
+    position: relative;
+    top: -25px;
+    text-align: center;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 15px;
+}
+.card-header h2{
+    border-radius: 10px;
+}
+
+.code-card{
+    background-color: rgb(128, 50, 202) ;
+    
 }

@@ -40,3 +40,4 @@ N/A
 https://abedhasan79.github.io/UofT-Bootcamp-Mini-Project-02/
 
 #Screenshot of Aplication
+![CSS-Snippet](https://user-images.githubusercontent.com/106339494/189739132-7b37a21e-9f26-4c16-8b9e-5b251a92820e.png)
